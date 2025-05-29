@@ -3,5 +3,15 @@ Cobos Tomás
 Cuenca Francisco
 
 a. Para actualizar mi repositorio al estado que está el repositorio que hice fork tengo que agregarlo con el comendo git remote add upstream {link_del_repo} y luego git fetch upstream
-b. Se puede pero tendría que agregar el otro fork con el comando git remote add upstream {link_del_repo}Si, Gamma puede actualizar al estado de Alfa, si agrega su fork con el comando git remote add upstream {link_del_repo_de_alfa}
-No, los datos se mantienen
+b. Se puede pero tendría que agregar el otro fork con el comando git remote add upstream {link_del_repo}
+c.Si, Gamma puede actualizar al estado de Alfa, si agrega su fork con el comando git remote add upstream {link_del_repo_de_alfa}
+d.No, los datos se mantienen
+e.
+1- Francisco Cuenca: git clone https://github.com/francuenca523/TP_SO_i2_Equipo,touch fork.txt,git commit –m “Subí archivo fork.txt",git push 
+2-Tomas Cobos,git clone https://github.com/francuenca523/TP_SO_i2_Equipo.git,echo Tomas Cobos > fork.txt     ,ipconfig | findstr "Direccion IPv4" >> fork.txt,date +"%H:%M:%S" >> fork.txt,git add .,git commit -m "Agregue Datos",git push 
+3-Lautaro Cardozo git clone https://github.com/LautaroCardozo/TP_SO_i2_Equipo,echo Lautaro Cardozo> fork.txt,ipconfig | findstr "Dirección IPv4" >> fork.txt,date +"%H:%M:%S" >> fork.txt,git add .,git commit -m "Modifique fork.txt",git push 
+4- Francisco Cuenca: touch NuevoDato.txt,git commit –m “Subí archivo NuevoDato.txt”,git push
+5-Lautaro Cardozo git remote add upstream https://github.com/francuenca523/TP_SO_i2_Equipo,git fetch upstream,git merge origin/main, 
+6- Francisco Cuenca: echo “Cardozo Lautaro” > respuesta_I2_Equipo100.txt,echo “Cobos Tomás” >> respuesta_I2_Equipo100.txt,echo “Cuenca Francisco” >> respuesta_I2_Equipo100.txt
+
+
