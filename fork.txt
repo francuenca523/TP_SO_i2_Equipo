@@ -1,8 +1,3 @@
 Tomas Cobos
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:482:98:610b:2145:e890:6a31
-   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:482:98:fca4:cf38:9907:994d
-   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:6c5c:886d:290c:e2f8
-   Direcci¢n IPv6 temporal. . . . . . : 2800:810:482:98:6c91:b46e:5e36:a83c
-   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:6c91:b46e:5e36:a83c
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.33
+DirecciÂ¢n IPv4. . . . . . . . . . . . . . : 192.168.0.33
 12:59:39
