@@ -3,4 +3,5 @@ Cobos Tomás
 Cuenca Francisco
 
 a. Para actualizar mi repositorio al estado que está el repositorio que hice fork tengo que agregarlo con el comendo git remote add upstream {link_del_repo} y luego git fetch upstream
-b. Se puede pero tendría que agregar el otro fork con el comando git remote add upstream {link_del_repo}
+b. Se puede pero tendría que agregar el otro fork con el comando git remote add upstream {link_del_repo}Si, Gamma puede actualizar al estado de Alfa, si agrega su fork con el comando git remote add upstream {link_del_repo_de_alfa}
+No, los datos se mantienen
